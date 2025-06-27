@@ -3,18 +3,18 @@
 ## Current Priorities
 
 ### 🔴 HIGH Priority Tasks
-1. **Current Learning State Assessment** - Status: Not Started, Est: 45 min, Dependencies: None
-2. **Math Academy Progress Review** - Status: Not Started, Est: 30 min, Dependencies: Task 1
-3. **Skill Gap Analysis** - Status: Not Started, Est: 1 hour, Dependencies: Tasks 1-2
+1. **NVIDIA Learning Path Validation** - Status: Not Started, Est: 1 hour, Dependencies: Assessment Complete
+2. **Math Academy Module Prioritization** - Status: Not Started, Est: 30 min, Dependencies: Task 1
+3. **Python/CS Basics Learning Plan** - Status: Not Started, Est: 45 min, Dependencies: Task 1
 
 ### 🟡 MEDIUM Priority Tasks
 1. **Portfolio Project Planning** - Status: Not Started, Est: 2 hours, Dependencies: Task 3
-2. **Industry Research** - Status: Not Started, Est: 1 hour, Dependencies: None
-3. **Networking Strategy Development** - Status: Not Started, Est: 1 hour, Dependencies: Task 2
+2. **NVIDIA Networking Strategy** - Status: Not Started, Est: 1 hour, Dependencies: Task 1
+3. **TinyML Course Preparation** - Status: Not Started, Est: 30 min, Dependencies: Task 3
 
 ### 🟢 LOW Priority Tasks
 1. **Interview Preparation Planning** - Status: Not Started, Est: 2 hours, Dependencies: Task 1
-2. **Salary Research** - Status: Not Started, Est: 30 min, Dependencies: Task 2
+2. **Salary Research** - Status: Not Started, Est: 30 min, Dependencies: Task 1
 
 ## Task Categories
 
@@ -71,4 +71,10 @@
 ## Time Constraints
 - **Available Time**: 1-2 hours per day
 - **Goal**: $160k salary by next Summer
-- **Focus**: High-ROI activities that directly contribute to career transition 
+- **Focus**: High-ROI activities that directly contribute to career transition
+
+## Current Learning Path (Confirmed)
+- **Target**: NVIDIA ML Hardware roles
+- **Path**: Mathematics → Python/CS basics → Python ML Foundational Models → TinyML MIT Open Courseware
+- **EE Supplement**: The Art of Electronics for gaps
+- **Rejected**: Power Integrity (confirmed as tangent) 
