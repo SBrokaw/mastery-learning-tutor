@@ -3,9 +3,9 @@
 ## Current Priorities
 
 ### 🔴 HIGH Priority Tasks
-1. **Math Academy Progress Assessment** - Status: Not Started, Est: 30 min, Dependencies: None
-2. **Current Skill Inventory** - Status: Not Started, Est: 45 min, Dependencies: None
-3. **Learning Plan Validation** - Status: Not Started, Est: 1 hour, Dependencies: Tasks 1-2
+1. **Current Learning State Assessment** - Status: Not Started, Est: 45 min, Dependencies: None
+2. **Math Academy Progress Review** - Status: Not Started, Est: 30 min, Dependencies: Task 1
+3. **Skill Gap Analysis** - Status: Not Started, Est: 1 hour, Dependencies: Tasks 1-2
 
 ### 🟡 MEDIUM Priority Tasks
 1. **Portfolio Project Planning** - Status: Not Started, Est: 2 hours, Dependencies: Task 3
@@ -19,7 +19,7 @@
 ## Task Categories
 
 ### Validation Tasks (`validation/`)
-- **Purpose**: Verify core assumptions and technical requirements for ML Hardware/CS transition
+- **Purpose**: Verify current learning state and career readiness for ML Hardware/CS transition
 - **Priority**: HIGH - These tasks block further development
 - **Requirements**: Self-assessment, skill validation, learning progress review
 - **Naming**: `01-task-name.md`, `02-task-name.md`, etc.
